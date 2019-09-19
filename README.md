@@ -20,4 +20,4 @@ Anyone can contribute
 
 ### Copyright
 
-2019 Reigo.Git
+2019 Copyright Reigo.Git
