@@ -17,3 +17,7 @@ This is intro text
 ## Contribution
 
 Anyone can contribute
+
+### Copyright
+
+2019 Reigo.Git
