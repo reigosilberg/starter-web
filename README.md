@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 Learning how to do stuff with Git
+Learning rebasing - So far so good! :)
 
 ## Deployment
 
