@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Reigo Silberg	reigo@somedomain.com	@no_twitter
 
 # THANKS
 
