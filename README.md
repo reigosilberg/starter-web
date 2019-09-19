@@ -16,7 +16,7 @@ This is intro text
 
 ## Contribution
 
-Anyone can contribute
+Anyone can contribute. Just fork this repo and jump in!
 
 ### Copyright
 
